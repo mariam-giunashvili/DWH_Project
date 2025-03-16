@@ -1,7 +1,7 @@
 # Data Integration and ETL Pipeline using PL/pgSQL
 
 ## Project Overview
-This project was developed as part of EPAM Systems' specialization stage and focuses on integrating data from two OLTP (Online Transaction Processing) systems. The project follows a structured ETL (Extract, Transform, Load) process and employs Ralph Kimball’s dimensional modeling methodology to construct a data warehouse. The implementation is done in PostgreSQL using PL/pgSQL, ensuring robust error handling, logging, and data management throughout the process.
+This project was developed for EPAM Systems' Data Analytics Engineering program, during specialization stage and focuses on integrating data from two OLTP (Online Transaction Processing) systems. The project follows a structured ETL (Extract, Transform, Load) process and employs Ralph Kimball’s dimensional modeling methodology to construct a data warehouse. The implementation is done in PostgreSQL using PL/pgSQL, ensuring robust error handling, logging, and data management throughout the process.
 
 ## Key Features
 - **Data Extraction & Loading In Staging Layer**:
