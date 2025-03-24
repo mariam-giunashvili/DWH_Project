@@ -37,8 +37,10 @@ This project demonstrates a comprehensive approach to building a data warehousin
 #
 # Project Result Outline
 ## From these two OLTP sources:
+B2B: business-to-business
 ![Screenshot (877)](https://github.com/user-attachments/assets/fb60b32f-fe9d-40b5-bf43-3245f7de1938)
 #
+B2C: business-to-consumer
 ![Screenshot (878)](https://github.com/user-attachments/assets/4abd2e65-33c2-4097-b4ce-e4b5903a50dd)
 
 ## This Star Schema was obtained at the end:
