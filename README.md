@@ -33,3 +33,17 @@ This project was developed for EPAM Systems' Data Analytics Engineering program,
 ## Summary
 This project demonstrates a comprehensive approach to building a data warehousing solution by integrating multiple OLTP systems, following industry-standard methodologies, and implementing robust ETL processes with PL/pgSQL. The final system ensures **data integrity, historical tracking, and optimized querying for analytical insights**.
 
+
+
+# Project Result Outline
+## From this:
+![Screenshot (877)](https://github.com/user-attachments/assets/fb60b32f-fe9d-40b5-bf43-3245f7de1938)
+
+## And this:
+![Screenshot (878)](https://github.com/user-attachments/assets/4abd2e65-33c2-4097-b4ce-e4b5903a50dd)
+
+## To this Star Schema:
+![MiniMotors - bl_dm](https://github.com/user-attachments/assets/6fb6be4f-fd06-4380-bb72-aeddeae0f091)
+
+
+
